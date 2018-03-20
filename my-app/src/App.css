@@ -1,0 +1,40 @@
+.container {
+  background-color: burlywood;
+  display: grid;
+  position: relative;
+  margin: auto;
+  grid-gap: 10px;
+  grid-template-areas: "header header header" "left game right" "footer footer footer";
+  grid-template-columns: 200px 500px 200px;
+  grid-template-rows: 150px 500px 200px;
+  justify-content: center;
+  height: px;
+}
+.game {
+  display: grid;
+  grid-gap: 10px;
+  background-color: red;
+  grid-template-areas: "a b c d e" " f g h i j" "k l m n o" "p q r s t" "u v w x y";
+  grid-area: game;
+}
+.tile {
+  background-color: blue;
+}
+
+.left {
+  background-color: blue;
+  grid-area: left;
+}
+.right {
+  background-color: blue;
+  grid-area: right;
+}
+footer {
+  background-color: blue;
+  grid-area: footer;
+}
+
+header {
+  background-color: blue;
+  grid-area: header;
+}

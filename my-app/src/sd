@@ -1,0 +1,153 @@
+<div class="a"> 1 </div>
+          <div class="b"> 2 </div>
+          <div class="c"> 3 </div>
+          <div class="d"> 4 </div>
+          <div class="e"> 5 </div>
+          <div class="f"> 6 </div>
+          <div class="g"> 7 </div>
+          <div class="h"> 8 </div>
+          <div class="i"> 9 </div>
+          <div class="j"> 10 </div>
+          <div class="k"> 12 </div>
+          <div class="l"> 12 </div>
+          <div class="m"> 13 </div>
+          <div class="n"> 14 </div>
+          <div class="o"> 15 </div>
+          <div class="p"> 16 </div>
+          <div class="q"> 17 </div>
+          <div class="r"> 18 </div>
+          <div class="s"> 19 </div>
+          <div class="t"> 20 </div>
+          <div class="u"> 21 </div>
+          <div class="v"> 22 </div>
+          <div class="w"> 23 </div>
+          <div class="x"> 24 </div>
+          <div class="y"> 25 </div>
+
+
+          .a {
+  grid-area: a;
+  color: blue;
+  border: black;
+  background-color: 
+}
+.b {
+  grid-area: b;
+  color: blue;
+  border: black;
+}
+.c {
+  grid-area: c;
+  color: blue;
+  border: black;
+}
+.d {
+  grid-area: d;
+  color: blue;
+  border: black;
+}
+.e {
+  grid-area: e;
+  color: blue;
+  border: black;
+}
+.f {
+  grid-area: f;
+  color: blue;
+  border: black;
+}
+.g {
+  grid-area: g;
+  color: blue;
+  border: black;
+}
+.h {
+  grid-area: h;
+  color: blue;
+  border: black;
+}
+.i {
+  grid-area: i;
+  color: blue;
+  border: black;
+}
+.j {
+  grid-area: j;
+  color: blue;
+  border: black;
+}
+.k {
+  grid-area: k;
+  color: blue;
+  border: black;
+}
+.l {
+  grid-area: l;
+  color: blue;
+  border: black;
+}
+.m {
+  grid-area: m;
+  color: blue;
+  border: black;
+}
+.n {
+  grid-area: n;
+  color: blue;
+  border: black;
+}
+.o {
+  grid-area: o;
+  color: blue;
+  border: black;
+}
+.p {
+  grid-area: p;
+  color: blue;
+  border: black;
+}
+.q {
+  grid-area: q;
+  color: blue;
+  border: black;
+}
+.r {
+  grid-area: r;
+  color: blue;
+  border: black;
+}
+.s {
+  grid-area: s;
+  color: blue;
+  border: black;
+}
+.t {
+  grid-area: t;
+  color: blue;
+  border: black;
+}
+.u {
+  grid-area: u;
+  color: blue;
+  border: black;
+}
+.v {
+  grid-area: v;
+  color: blue;
+  border: black;
+}
+.w {
+  grid-area: w;
+  color: blue;
+  border: black;
+}
+.x {
+  grid-area: x;
+  color: blue;
+  border: black;
+}
+.y {
+  grid-area: y;
+  color: blue;
+  border: black;
+}
